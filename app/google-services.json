@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "302574964929",
+    "firebase_url": "https://proyek-hebat-saya-ff1ae.firebaseio.com",
+    "project_id": "proyek-hebat-saya-ff1ae",
+    "storage_bucket": "proyek-hebat-saya-ff1ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302574964929:android:4950c8be1f55f4bf818440",
+        "android_client_info": {
+          "package_name": "com.example.notify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302574964929-suqeq40547f2sill9oqdhbvoa475m0ul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notify",
+            "certificate_hash": "e6ecc7f2289892d3f3e2fa5b7bbf7c39c9c028f8"
+          }
+        },
+        {
+          "client_id": "302574964929-15e37gqmukru2qfenpt7fq52c7jc7fh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe3apErqp4vzaZZhJC1d9qcOshnwrvDI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302574964929-15e37gqmukru2qfenpt7fq52c7jc7fh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
